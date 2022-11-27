@@ -18,10 +18,10 @@ Community edition nuclei templates, a simple tool that allows you to organize al
 
 # Install
 ```
-GO111MODULE=on go install -v github.com/xm1k3/cent@latest
+GO111MODULE=on go install -v github.com/azad4me/custo_nuclei@latest
 ```
 
-Or [download from releases](https://github.com/xm1k3/cent/releases)
+Or [download from releases](https://github.com/azad4me/custo_nuclei/releases)
 <br><br>
 
 after installation run `cent init` to initialize cent with the configuration files you find [here](https://github.com/xm1k3/cent/blob/main/.cent.yaml) 
